@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pepe el sapo",
+      "empresa": "El Tiki papá!",
+      "email": "sapo@gmail.com",
+      "telefono": "1350897315780",
+      "notas": "El Sapo Pepe",
+      "id": 1
+    },
+    {
+      "nombre": "Cecilia",
+      "empresa": "Cecilia make up",
+      "email": "makeup@cecilia.com",
+      "telefono": "4514021984",
+      "notas": "Mejores productos de make up",
+      "id": 3
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "Vampiros SA",
+      "email": "markov@vampiresmtg.com",
+      "telefono": "",
+      "notas": "Te chupa la vida con sus familiares",
+      "id": 5
+    }
+  ]
+}
